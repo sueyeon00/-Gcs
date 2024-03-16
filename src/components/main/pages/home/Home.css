@@ -1,0 +1,17 @@
+/* Home */
+.Home {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: flex-start; /* 요소 상하 정렬 */
+    justify-content: center; /* 요소 좌우 정렬 */
+    white-space: pre-line; /* 텍스트 줄바꿈 적용*/
+}
+
+.custom-map-button {
+    background-color: #802727;
+    border: none;
+    color: #000;
+    padding: 10px;
+    cursor: pointer;
+}
