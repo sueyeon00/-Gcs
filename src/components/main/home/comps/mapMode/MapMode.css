@@ -1,0 +1,11 @@
+.custom-map-button {
+    background-color: #f0c3c3;
+    border: none;
+    color: #000;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.dropdown-content {
+    width: 300px;
+}

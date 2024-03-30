@@ -1,9 +1,8 @@
 // Home.js
-import MapComponent from './GoogleMap';
-import MapMode from './MapMode';
 import React from 'react';
 import './Home.css';
-import GoogleMap from './GoogleMap';
+import MapMode from './comps/mapMode/MapMode.js';
+import GoogleMap from './comps/googleMap/GoogleMap.js';
 
 const Home = () => {
     return (
